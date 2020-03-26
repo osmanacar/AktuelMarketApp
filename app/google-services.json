@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "28712292763",
+    "firebase_url": "https://aktuelmarketapp.firebaseio.com",
+    "project_id": "aktuelmarketapp",
+    "storage_bucket": "aktuelmarketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28712292763:android:72b6c03e44e744997f913e",
+        "android_client_info": {
+          "package_name": "com.example.aktuelmarketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28712292763-8vivjl13lls9fefa7rafid9q0r284lmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aktuelmarketapp",
+            "certificate_hash": "6a784ac31834b2f644ad1278a6168d014c0c8822"
+          }
+        },
+        {
+          "client_id": "28712292763-ih13rrg4v0f6ft8ak9l63r23lhbf0orv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aktuelmarketapp",
+            "certificate_hash": "1a30c182c71154a802e37d2f341f0e265ca373f7"
+          }
+        },
+        {
+          "client_id": "28712292763-9e00ilpg6h9ojqcip6p65n9ojvkra1am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3u8ZFffxYQZ6RWPAJo02bBnfDEfFvKiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28712292763-o3cojr2l9n4841hos6bk8ehjqc0ng4o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_market">
+
+    <fragment
+        android:id="@+id/nav_market"
+        android:name="com.example.aktuelmarketapp.ui.Market.MarketFragment"
+        android:label="MARKETLER"
+        tools:layout="@layout/fragment_market" />
+
+    <fragment
+        android:id="@+id/nav_favori"
+        android:name="com.example.aktuelmarketapp.ui.Favori.FavoriFragment"
+        android:label="FAVORILER"
+        tools:layout="@layout/fragment_favori" />
+
+    <fragment
+        android:id="@+id/nav_puanver"
+        android:name="com.example.aktuelmarketapp.ui.PuanVer.SlideshowFragment"
+        android:label="UYGULAMAYA PUAN VER"
+        tools:layout="@layout/fragment_puanver" />
+
+    <fragment
+        android:id="@+id/nav_hakkimizda"
+        android:name="com.example.aktuelmarketapp.ui.Hakkimizda.ToolsFragment"
+        android:label="HAKKIMIZDA"
+        tools:layout="@layout/fragment_hakkimizda" />
+</navigation>

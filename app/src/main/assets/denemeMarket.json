@@ -1,0 +1,246 @@
+{
+  "marketjson" : [ {
+    "id" : "0",
+    "idfavori" : "0",
+    "isim" : "03-07 OCAK 2020",
+    "resim" : "https://www.aktuel-katalogu.com/kataloglar/bim/03-ocak-2020/bim-03-ocak-2020-2.jpg",
+	"marketisim" : "bim"
+  }, {
+    "id" : "1",
+    "idfavori" : "0",
+    "isim" : "07-13 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7139/7139_1_85461u.jpg",
+	"marketisim" : "bim"
+  }, {
+    "id" : "2",
+    "idfavori" : "0",
+    "isim" : "07-13 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7139/7139_2_85462u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "3",
+    "idfavori" : "0",
+    "isim" : "10-16 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7140/7140_1_85569u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "4",
+    "idfavori" : "0",
+    "isim" : "10-16 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7140/7140_2_85570u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "5",
+    "idfavori" : "0",
+    "isim" : "14-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7177/7177_1_86221u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "6",
+    "idfavori" : "0",
+    "isim" : "14-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7177/7177_2_86222u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "7",
+    "idfavori" : "0",
+    "isim" : "17-23 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7178/7178_1_86223u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "8",
+    "idfavori" : "0",
+    "isim" : "17-23 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7178/7178_1_86223u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "9",
+    "idfavori" : "0",
+    "isim" : "17-23 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7178/7178_3_86225u.jpg",
+	"marketisim" : "bim"
+  },{
+    "id" : "10",
+    "idfavori" : "0",
+    "isim" : "17-23 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/731/7178/7178_4_86226u.jpg",
+	"marketisim" : "bim"
+  },{
+   "id" : "11",
+    "idfavori" : "0",
+    "isim" : "04-10 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7188/7188_1_86327u.jpg",
+	"marketisim" : "a101"
+  }, {
+    "id" : "12",
+    "idfavori" : "0",
+    "isim" : "04-10 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7188/7188_2_86328u.jpg",
+	"marketisim" : "a101"
+  }, {
+    "id" : "13",
+    "idfavori" : "0",
+    "isim" : "04-10 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7188/7188_3_86329l.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "14",
+    "idfavori" : "0",
+    "isim" : "04-10 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7189/7189_1_86330u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "15",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_1_86331u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "16",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_2_86332u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "17",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_3_86333u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "18",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_4_86334u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "19",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_5_86335u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "20",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_6_86336u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "21",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3192/7190/7190_7_86337u.jpg",
+	"marketisim" : "a101"
+  },{
+    "id" : "22",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_1_86175u.jpg",
+	"marketisim" : "cagri"
+  }, {
+    "id" : "23",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_2_86176u.jpg",
+	"marketisim" : "cagri"
+  }, {
+    "id" : "24",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_3_86177u.jpg",
+	"marketisim" : "cagri"
+  } ,
+  {
+    "id" : "25",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_4_86178u.jpg",
+	"marketisim" : "cagri"
+  },{
+    "id" : "26",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_5_86179u.jpg",
+	"marketisim" : "cagri"
+  },{
+    "id" : "27",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_6_86180u.jpg",
+	"marketisim" : "cagri"
+  },{
+    "id" : "28",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_7_86181u.jpg",
+	"marketisim" : "cagri"
+  },{
+    "id" : "29",
+    "idfavori" : "0",
+    "isim" : "04-14 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3093/7174/7174_8_86182u.jpg",
+	"marketisim" : "cagri"
+  },{
+    "id" : "30",
+    "idfavori" : "0",
+    "isim" : "01-07 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/739/7122/7122_1_85127u.jpg",
+	"marketisim" : "sok"
+  }, {
+    "id" : "31",
+    "idfavori" : "0",
+    "isim" : "01-07 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/739/7122/7122_2_85128u.jpg",
+	"marketisim" : "sok"
+  }, {
+    "id" : "32",
+    "idfavori" : "0",
+    "isim" : "01-07 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/739/7122/7122_3_85129u.jpg",
+	"marketisim" : "sok"
+  } ,
+  {
+    "id" : "33",
+    "idfavori" : "0",
+    "isim" : "01-07 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/739/7162/7162_1_86030u.jpg",
+	"marketisim" : "sok"
+  },{
+    "id" : "34",
+    "idfavori" : "0",
+    "isim" : "07-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7129/7129_1_85194u.jpg",
+	"marketisim" : "hakmar"
+  }, {
+    "id" : "35",
+    "idfavori" : "0",
+    "isim" : "07-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7129/7129_2_85195u.jpg",
+	"marketisim" : "hakmar"
+  }, {
+    "id" : "36",
+    "idfavori" : "0",
+    "isim" : "07-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7129/7129_3_85196u.jpg",
+	"marketisim" : "hakmar"
+  } ,
+  {
+    "id" : "37",
+    "idfavori" : "0",
+    "isim" : "07-20 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7129/7129_4_85197u.jpg",
+	"marketisim" : "hakmar"
+  },{
+    "id" : "38",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7128/7128_1_85192u.jpg",
+	"marketisim" : "hakmar"
+  },{
+    "id" : "39",
+    "idfavori" : "0",
+    "isim" : "09-15 OCAK 2020",
+    "resim" : "https://cdn.akakce.com/_bro/3310/7128/7128_2_85193u.jpg",
+	"marketisim" : "hakmar"
+  }]
+}
